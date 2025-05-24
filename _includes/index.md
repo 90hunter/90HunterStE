@@ -4,4 +4,4 @@ The proposed mixed-use building will consist of four levels of structured parkin
 
 This is a seven-storey increase from the initial ten-storey proposal shown to the public in June 2024. 
 
-<img src="https://github.com/user-attachments/assets/765e2a85-57af-4a13-ad25-4e84719dc3a6" style="max-width:100%;height:auto;" alt="rendering of the 17-storey building"/>
+<img src="/assets/img/rendering.png" style="max-width:100%;height:auto;" alt="rendering of the 17-storey building"/>
