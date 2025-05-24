@@ -34,9 +34,6 @@ navigation:
 - text: About
   url: ./
   internal: true
-- text: Proposal details
-  url: proposal-details/
-  internal: true
 - text: Renderings
   url: renderings/
   internal: true
