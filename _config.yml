@@ -17,7 +17,7 @@ subtitle: Information on the 17-storey proposal at the Mark Street Church
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
 # See http://jekyllrb.com/docs/github-pages/ for more info
 #baseurl: ''
-baseurl: ''
+baseurl: '90hunter.github.io/90HunterStE'
 
 # Author/Organization info to be displayed in the templates
 author:
