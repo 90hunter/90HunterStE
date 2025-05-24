@@ -37,6 +37,9 @@ navigation:
 - text: Renderings
   url: renderings/
   internal: true
+- text: Councillor Info
+  url: councillor-info/
+  internal: true
 
 
 # Style Variables
