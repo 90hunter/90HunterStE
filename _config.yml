@@ -37,8 +37,11 @@ navigation:
 - text: Renderings
   url: renderings/
   internal: true
-- text: Councillor Info
+- text: Councillor info
   url: councillor-info/
+  internal: true
+- text: In the media
+  url: in-the-media/
   internal: true
 
 
