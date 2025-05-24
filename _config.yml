@@ -40,6 +40,9 @@ navigation:
 - text: Renderings
   url: renderings/
   internal: true
+- text: City plans and policies
+  url: city-plans-and-policies/
+  internal: true
 - text: Councillor info
   url: councillor-info/
   internal: true
