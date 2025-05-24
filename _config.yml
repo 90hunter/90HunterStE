@@ -43,6 +43,9 @@ navigation:
 - text: In the media
   url: in-the-media/
   internal: true
+- text: Petition
+  url: petition/
+  internal: true
 
 
 # Style Variables
