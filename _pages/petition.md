@@ -8,7 +8,7 @@ You can sign the petition below. Information will be shared with the City on a w
 ### 124 residents have signed so far! 
 _Note this figure is not updated live._
 
-Use this link to share directly: [https://forms.gle/9JmV7uvAcvoDGBpM](https://forms.gle/9JmV7uvAcvoDGBpM9)]
+Use this link to share directly: [https://forms.gle/9JmV7uvAcvoDGBpM](https://forms.gle/9JmV7uvAcvoDGBpM9)
 
 Or share on Facebook: 
 <div class="fb-share-button" 
