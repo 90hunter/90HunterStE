@@ -49,6 +49,9 @@ navigation:
 - text: Petition
   url: petition/
   internal: true
+- text: Get involved
+  url: get-involved/
+  internal: true
 
 
 # Style Variables
