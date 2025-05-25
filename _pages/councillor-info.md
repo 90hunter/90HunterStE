@@ -9,7 +9,7 @@ All councillors will be voting on the zoning amendment for the 17-storey proposa
 Phone: 705-742-7777 ext. 1870#<br>
 Email: [mayor@peterborough.ca](mailto:mayor@peterborough.ca)
 
-### Ward 1: Otonabee 
+### Ward 1 - Otonabee 
 
 **Councillor Kevin Duguay**<br>
 Phone: 705-742-7777 ext. 4619<br>
