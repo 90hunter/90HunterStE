@@ -2,7 +2,7 @@
 layout: page
 title:  "Proposal details"
 ---
-_This page will continue to be updated with info from the proposal and supporting studies._
+_This page will continue to be updated with info from the proposal and supporting studies. City planning staff are currently reviewing the proposal._
 
 Jump to: [Heritage Impact](#heritage-impact)
 
