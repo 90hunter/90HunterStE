@@ -6,7 +6,7 @@ _This page will continue to be updated with info from the proposal and supportin
 
 Jump to: [Heritage Impact](#heritage-impact)
 
-The proposed mixed-use building will consist of four levels of structured parking (one partially underground), with commercial space along the street and 205 dwelling units from floors 3 through 17. 205 motor vehicle parking spaces and 206 bicycle parking spaces will support the development. As currently proposed, the dwelling units will consist of 66 one-bedroom units, 110 two-bedroom units and 29 three-bedroom units.
+The proposed mixed-use building will consist of four levels of structured parking (one partially underground), with commercial space along the street and 205 dwelling units from floors 3 through 17. 205 motor vehicle parking spaces and 206 bicycle parking spaces will support the development. As currently proposed, the dwelling units will consist of 66 one-bedroom units, 110 two-bedroom units and 29 three-bedroom units. These will be market-rate rental apartments (not condos, not affordable housing).
 
 The proposal is seeking rezoning for a modified C.6 zone or a new Special Zone District. Below is a table showing the C.6 zone requirements and the proposed lot regulations -- non-complying regulations are in bold. 
 
