@@ -2,7 +2,7 @@
 layout: page
 title:  "Proposal details"
 ---
-_This page will continue to be updated with info._
+_This page will continue to be updated with info from the proposal and supporting studies._
 
 The proposed mixed-use building will consist of four levels of structured parking (one partially underground), with commercial space along the street and 205 dwelling units from floors 3 through 17. 205 motor vehicle parking spaces and 206 bicycle parking spaces will support the development. As currently proposed, the dwelling units will consist of 66 one-bedroom units, 110 two-bedroom units and 29 three-bedroom units.
 
