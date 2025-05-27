@@ -2,4 +2,8 @@ There is a proposal for a 17-storey mixed-use building to be developed at 90 Hun
 
 City Council will be voting on this zoning amendment proposal at an upcoming General Committee meeting, date TBD. Now is the time to share your thoughts about this proposal to the City and to Council. Anyone will be able to speak for five minutes at the General Committee meeting.
 
+Link on City site: [Application for a Zoning By-law Amendment](https://www.peterborough.ca/business-building-development/planning-building-and-development/planning-and-development-services/current-development-applications/#90HunterStreetEast) 
+
+The meeting will be announced on the [City's Public Notices page](https://www.peterborough.ca/news/categories/public-notices/).
+
 <img src="/assets/img/rendering.png" style="max-width:100%;height:auto;" alt="rendering of the 17-storey building">
