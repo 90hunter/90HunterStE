@@ -20,6 +20,8 @@ The residential and commercial parking requirements total 135 spaces. The propos
 
 There are 176 bicycle parking spaces proposed. 
 
+This comprises 4 storeys of parking, one partially underground, with open air parking on the roof at the back of the building (behind the tower). This is in the northwestern portion of the lot with residential zoning on three sides.
+
 The church lot will be losing spaces, being reduced to 15. This meets zoning requirements but doesn't meet the max parking usage identified in the proposal's parking study. Public parking in the garage will be free on Sundays in attempts to alleviate the impact of churchgoers parking on surrounding streets. 
 
 Parking is part of the reason the proposal jumped from 10 to 17 storeys -- the developer cites that they were responding to public concern around the perceived lack of sufficient parking, and the impact that would have on surrounding streets. This change added additional storeys of parking.
