@@ -4,13 +4,25 @@ title:  "Proposal details"
 ---
 _This page will continue to be updated with info from the proposal and supporting studies._
 
-Jump to: [Heritage Impact](#heritage-impact)
+Jump to: [Parking](#parking) // [Heritage Impact](#heritage-impact)
 
-The proposed mixed-use building will consist of four levels of structured parking (one partially underground), with commercial space along the street and 205 dwelling units from floors 3 through 17. 205 motor vehicle parking spaces and 206 bicycle parking spaces will support the development. As currently proposed, the dwelling units will consist of 66 one-bedroom units, 110 two-bedroom units and 29 three-bedroom units. These will be market-rate rental apartments (not condos, not affordable housing).
+The proposed mixed-use building will consist of four levels of structured parking (one partially underground), with commercial space along the street and 205 dwelling units from floors 3 through 17. As currently proposed, the dwelling units will consist of 66 one-bedroom units, 110 two-bedroom units and 29 three-bedroom units. These will be market-rate rental apartments (not condos, not affordable housing).
 
 The proposal is seeking rezoning for a modified C.6 zone or a new Special Zone District. Below is a table showing the C.6 zone requirements and the proposed lot regulations -- non-complying regulations are in bold. 
 
 <img src="/assets/img/zone_requirements.png" style="max-width:100%;height:auto;" alt="shadow impact study for the 17-storey building within the neighbourhood context">
+
+## Parking  
+
+In short: there is enough parking. 
+
+The residential and commercial parking requirements total 135 spaces. The proposal includes 160 spaces, with pick up/drop off spaces and accessible spaces. Excess parking is proposed to be made available as paid public parking. 
+
+There are 176 bicycle parking spaces proposed. 
+
+The church lot will be losing spaces, being reduced to 15. This meets zoning requirements but doesn't meet the max parking usage identified in the proposal's parking study. Public parking in the garage will be free on Sundays in attempts to alleviate the impact of churchgoers parking on surrounding streets. 
+
+Parking is part of the reason the proposal jumped from 10 to 17 storeys -- the developer cites that they were responding to public concern around the perceived lack of sufficient parking, and the impact that would have on surrounding streets. This change added additional storeys of parking.
 
 ## Heritage Impact 
 
