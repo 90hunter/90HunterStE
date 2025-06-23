@@ -3,9 +3,9 @@ layout: page
 title:  "Petition"
 ---
 <a name="top"></a>
-You can sign the petition below. Information will be shared with the City on a weekly basis leading up to the pending General Committee meeting, where Council will vote on the zoning amendment request. Your information will not be used for anything else. 
+You can sign the petition below. Information will be shared with the City leading up to the pending General Committee meeting, where Council will vote on the zoning amendment request. Your information will not be used for anything else. 
 
-### 407 residents have signed so far! 
+### 435 residents have signed so far! 
 _Note this figure is not updated live._
 
 Use this link to share directly: [https://forms.gle/9JmV7uvAcvoDGBpM](https://forms.gle/9JmV7uvAcvoDGBpM9)
