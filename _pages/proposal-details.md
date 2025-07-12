@@ -14,17 +14,23 @@ The proposal is seeking rezoning for a modified C.6 zone or a new Special Zone D
 
 ## Parking  
 
-In short: there is enough parking. 
+In short: there is an oversupply of parking with the 17-storey proposal. 
 
-The residential and commercial parking requirements total 135 spaces. The proposal includes 160 spaces, with pick up/drop off spaces and accessible spaces. Excess parking is proposed to be made available as paid public parking. 
+The residential and commercial parking bylaw requirements total 137 spaces. The proposal includes 160 spaces, with pick up/drop off spaces and accessible spaces. Excess parking is proposed to be made available as paid public parking. 
 
-There are 176 bicycle parking spaces proposed. 
+There are 176 bicycle parking spaces proposed. No EV charging spots are included in the existing proposal.
 
 This comprises 4 storeys of parking, one partially underground, with open air parking on the roof at the back of the building (behind the tower). This is in the northwestern portion of the lot with residential zoning on three sides.
 
 The church lot will be losing spaces, being reduced to 15. This meets zoning requirements but doesn't meet the max parking usage identified in the proposal's parking study. Public parking in the garage will be free on Sundays in attempts to alleviate the impact of churchgoers parking on surrounding streets. 
 
 Parking is part of the reason the proposal jumped from 10 to 17 storeys -- the developer cites that they were responding to public concern around the perceived lack of sufficient parking, and the impact that would have on surrounding streets. This change added additional storeys of parking.
+
+Note that 90 Hunter is serviced by two key bus routes and a bike network. Excessive parking for cars is counter to forward-thinking urban design principles designed to reduce car dependency and promote sustainable transportation choices. The surplus is not only excessive from a bylaw standpoint, but also excessive from a needs standpoint: the orginal application included a parking study that peak parking rate for comparative developments in this area is 0.70 - 0.73 spaces per unit. 
+
+See: 
+- [Traffic Impact Study and Parking Justification Report (Revised)](https://drive.google.com/file/d/1EtwZ3QZP07zpqoOpfEiL9j3_HDgcg7TK/view)
+- [Traffic Impact Study and Parking Justification Report (10-storey propsal)](https://drive.google.com/file/d/1HT_HSRUZfT_vCKnZA0D_QjMQv9sMYWQy/view?usp=sharing)
 
 ## Heritage Impact 
 
