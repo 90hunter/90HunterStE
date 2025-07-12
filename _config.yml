@@ -38,8 +38,12 @@ navigation:
   url: renderings/
   internal: true
   children:
-    - title: Massing
+    - text: Massing
       url: /renderings/massing/
+    - text: Shadow studies
+      url: /renderings/shadow-studies/
+    - text: Architectural drawings
+      url: /renderings/architectural-drawings/
 - text: Proposal details
   url: proposal-details/
   internal: true

@@ -11,7 +11,7 @@ var filesToCache = [
   // images
   '/assets/img/octocat.png',
   // pages
-  '/jekyll/update/2013/11/20/welcome-to-jekyll.html','/city-plans-and-policies/','/councillor-info/','/get-involved/','/in-the-media/','/petition/','/proposal-details/','/renderings/','/renderings/massing/',
+  '/jekyll/update/2013/11/20/welcome-to-jekyll.html','/city-plans-and-policies/','/councillor-info/','/get-involved/','/in-the-media/','/petition/','/proposal-details/','/renderings/','/renderings/architectural-drawings/','/renderings/massing/','/renderings/shadow-studies/',
   // posts
   '/jekyll/update/2013/11/20/welcome-to-jekyll.html',
 ];

@@ -1,0 +1,14 @@
+{% for link in include.links %}
+  <li>
+    {% if link.internal == true %}
+      <a href="{{ site.baseurl }}/{{ link.url }}">{{ link.text }}</a>
+    {% else %}
+      <a href="{{ link.url }}">{{ link.text }}</a>
+    {% endif %}
+    {% if link.children %}
+      <ul>
+        {% include sidebar-links.html links=link.children %}
+      </ul>
+    {% endif %}
+  </li>
+{% endfor %}

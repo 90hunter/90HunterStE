@@ -217,6 +217,12 @@ Navigation
   border-bottom: none;
 }
 
+.sidebar-nav ul ul li {
+  font-size: 0.95em; /* Child pages slightly smaller than parent */
+}
+.sidebar-nav ul ul ul li {
+  font-size: 0.85em; /* Grandchild pages even smaller */
+}
 
 /*
 Layout
