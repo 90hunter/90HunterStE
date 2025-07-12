@@ -14,18 +14,6 @@ Jump to: [Massing and angular plane analysis](#massing-and-angular-plane-analysi
 <img src="/assets/img/rendering_3.png" style="max-width:100%;height:auto;" alt="rendering of the 17-storey building">
 <img src="/assets/img/rendering_4.png" style="max-width:100%;height:auto;" alt="rendering of the 17-storey building">
 
-### Massing and angular plane analysis 
-
-<img src="/assets/img/massing/massing_0.png" style="max-width:100%;height:auto;" alt="massing analysis for the 17-storey building">
-<img src="/assets/img/massing/massing_1.png" style="max-width:100%;height:auto;" alt="massing analysis for the 17-storey building">
-<img src="/assets/img/massing/massing_2.png" style="max-width:100%;height:auto;" alt="massing analysis for the 17-storey building">
-<img src="/assets/img/massing/massing_3.png" style="max-width:100%;height:auto;" alt="massing analysis for the 17-storey building">
-<img src="/assets/img/massing/massing_4.png" style="max-width:100%;height:auto;" alt="massing analysis for the 17-storey building">
-<img src="/assets/img/massing/massing_5.png" style="max-width:100%;height:auto;" alt="massing analysis for the 17-storey building">
-<img src="/assets/img/massing/massing_6.png" style="max-width:100%;height:auto;" alt="massing analysis for the 17-storey building">
-<img src="/assets/img/massing/massing_7.png" style="max-width:100%;height:auto;" alt="massing analysis for the 17-storey building">
-<img src="/assets/img/massing/massing_8.png" style="max-width:100%;height:auto;" alt="angular plane analysis for the 17-storey building">
-
 ### Neighbourhood context visualisation 
 
 <img src="/assets/img/neighbourhood_context.png" style="max-width:100%;height:auto;" alt="visualisations of the 17-storey building within the neighbourhood context">
