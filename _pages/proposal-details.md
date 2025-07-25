@@ -4,8 +4,9 @@ title:  "Proposal details"
 ---
 The proposal is brought forth by the Board of Trustees of Mark Street United Church, chaired by former mayor Daryl Bennett, and TVM.
 
-Jump to: [Parking](#parking) // [Heritage Impact](#heritage-impact)
+Jump to: [Parking](#parking) // [Urban Design](#urban-design) // [Heritage Impact](#heritage-impact)
 
+## Zoning 
 The proposed mixed-use building will consist of four levels of structured parking (one partially underground), with commercial space along the street and 205 dwelling units from floors 3 through 17. As currently proposed, the dwelling units will consist of 66 one-bedroom units, 110 two-bedroom units and 29 three-bedroom units. These will be market-rate rental apartments (not condos, not affordable housing).
 
 The proposal is seeking rezoning for a modified C.6 zone or a new Special Zone District. Below is a table showing the C.6 zone requirements and the proposed lot regulations -- non-complying regulations are in bold. 
@@ -107,6 +108,33 @@ Note that 90 Hunter is serviced by two key bus routes and a bike network. Excess
 See: 
 - [Traffic Impact Study and Parking Justification Report (Revised)](https://drive.google.com/file/d/1EtwZ3QZP07zpqoOpfEiL9j3_HDgcg7TK/view)
 - [Traffic Impact Study and Parking Justification Report (10-storey propsal)](https://drive.google.com/file/d/1HT_HSRUZfT_vCKnZA0D_QjMQv9sMYWQy/view?usp=sharing)
+
+## Urban Design 
+
+Hunter Street East is subject to the [Central Area Urban Design Guidelines](https://www.peterborough.ca/media/mivbkdnp/ipspl23-007-appendix-a-central-area-urban-design-guidelines-accessible-2023-04-19-copy.pdf) (PDF), which states that high-rise residential buildings (6+ storeys) should:
+
+> "For portions of high-rise buildings above 6
+storeys, maintain a separation distance of a
+minimum of 10 metres from side property lines
+to reduce shadow impacts, ensure sky view,
+allow for side-facing windows and maintain
+reasonable privacy for neighbouring buildings."
+
+This proposal's tower has a separation distance of only 3.3 metres on the west side, and 2.8 metres from 423 Mark St, per the architectural diagrams. 
+
+This lack of setback, coupled with the encroachment on the 45-degree angular plane (see the [angular plane analysis](../renderings/massing/#angular)), does not create adequate transitions between neighbouring properties. 
+
+Further, City Staff provided the following comments on the 17-storey proposal: 
+
+> "Staff acknowledge that there is recent Council direction to process an Official Plan Amendment to remove building height restrictions and angular plane requirements from the Official Plan. Notwithstanding that, staff suggest the following changes to improve compatibility with the surrounding area: 
+> - a) The proposed building encroaches into the angular plane for the property line abutting 423 Mark Street by three storeys, and the 0.8 metre set back will not facilitate the establishment of an adequate landscape buffer. It is the opinion of staff that rationale for this encroachment has not been articulated. Staff request addressing this encroachment into the angular plane and articulating the appropriate mitigation measures to address compatibility.
+> - b) Concerns remain with the proposed massing of the rear of the building as it relates to the low-rise residential uses at 427 Mark Street and 33 Cricket Place. Staff continue to support the additional height along Hunter Street East in compensation for reduced height, improved building transitions, step backs and setbacks at the rear to make room for adequate landscape buffering.
+>>  - i) The applicant is strongly encouraged to introduce a combination of appropriate step backs, height reduction and/or transitions between the 11th and 17th storeys of the building and the third storey of the buildings base relative to the existing low-rise residential uses on Cricket Place and Mark Street. 
+>>  - ii) Staff acknowledges that the angular plane is one measure of compatibility and does not need to be strictly implemented. Where there are encroachments, staff are looking for alternative mitigation measures to be implemented during site plan approval. The Urban Design Brief remains silent on a mitigation plan to improve compatibility with surrounding uses. 
+> - c) Additional step backs should be considered as part of the residential portion of the building. The step back at the street wall is currently only proposed for the commercial portion."
+
+The updated proposal expands the 0.8m set back to 423 Mark St to 2.8m, but does not address the rest of Staff comments.   
+
 
 ## Heritage Impact 
 
