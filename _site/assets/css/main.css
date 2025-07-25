@@ -221,46 +221,7 @@ Navigation
   font-size: 0.85em; /* Grandchild pages even smaller */
 }
 
-/* Hide sidebar by default on mobile */
-@media (max-width: 700px) {
-  #sidebar-nav {
-    display: none;
-    background: #fff;
-    position: absolute;
-    left: 0;
-    top: 60px;
-    z-index: 999;
-    width: 80vw;
-    box-shadow: 2px 0 8px rgba(0,0,0,0.08);
-    padding-bottom: 2em;
-  }
-  #sidebar-nav.open {
-    display: block;
-  }
-  .sidebar-toggle {
-    display: block;
-    background: none;
-    border: none;
-    font-size: 2em;
-    margin-bottom: 1em;
-    cursor: pointer;
-    color: #75787b;
-  }
-}
 
-/* Hide toggle button and show sidebar on desktop */
-@media (min-width: 701px) {
-  .sidebar-toggle {
-    display: none;
-  }
-  #sidebar-nav {
-    display: block !important;
-    position: static;
-    width: auto;
-    box-shadow: none;
-    padding-bottom: 0;
-  }
-}
 
 /*
 Layout
