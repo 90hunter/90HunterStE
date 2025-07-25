@@ -15,7 +15,7 @@ Articles about this development proposal in local media:
 
 Letters to the editor in local media: 
 
-- [East City plan is more than an ‘adjustment’](https://www.thepeterboroughexaminer.com/opinion/letters-to-the-editor/examiner-letters-to-the-editor-july-10/article_11da8a41-96f4-5e6b-8e55-c8f9c8d5f1a3.html) Peter Dawson, July 24, 2024
+- [East City plan is more than an ‘adjustment’](https://www.thepeterboroughexaminer.com/opinion/letters-to-the-editor/examiner-letters-to-the-editor-july-10/article_11da8a41-96f4-5e6b-8e55-c8f9c8d5f1a3.html), Peter Dawson, July 24, 2024
 - [East City development needs more consideration](https://www.thepeterboroughexaminer.com/opinion/letters-to-the-editor/examiner-letters-to-the-editor-june-3/article_e5452cca-a3f4-531d-a1b3-021d02887af8.html), John MacMillan-Jones, June 3, 2025
 - [Developers are not driven by pure altruism](https://www.thepeterboroughexaminer.com/opinion/letters-to-the-editor/examiner-letters-to-the-editor-june-3/article_e5452cca-a3f4-531d-a1b3-021d02887af8.html), Peter Dawson, June 3, 2025
-- [17 storeys is a bridge too far](https://www.thepeterboroughexaminer.com/opinion/letters-to-the-editor/examiner-letters-to-the-editor-may-28/article_e5cfa463-0217-5d5d-bfaf-38acc3f8c318.html) Martha Tancock, May 28, 2025
+- [17 storeys is a bridge too far](https://www.thepeterboroughexaminer.com/opinion/letters-to-the-editor/examiner-letters-to-the-editor-may-28/article_e5cfa463-0217-5d5d-bfaf-38acc3f8c318.html), Martha Tancock, May 28, 2025
