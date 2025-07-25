@@ -2,7 +2,7 @@
 layout: page
 title:  "Proposal details"
 ---
-_This page will continue to be updated with info from the proposal and supporting studies._
+The proposal is brought forth by the Board of Trustees of Mark Street United Church, chaired by former mayor Daryl Bennett, and TVM.
 
 Jump to: [Parking](#parking) // [Heritage Impact](#heritage-impact)
 
