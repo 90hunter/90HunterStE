@@ -103,7 +103,7 @@ The church lot will be losing spaces, being reduced to 15. This meets zoning req
 
 Parking is part of the reason the proposal jumped from 10 to 17 storeys -- the developer cites that they were responding to public concern around the perceived lack of sufficient parking, and the impact that would have on surrounding streets. This change added additional storeys of parking.
 
-Note that 90 Hunter is serviced by two key bus routes and a bike network. Excessive parking for cars is counter to forward-thinking urban design principles designed to reduce car dependency and promote sustainable transportation choices. The surplus is not only excessive from a bylaw standpoint, but also excessive from a needs standpoint: the orginal application included a parking study that peak parking rate for comparative developments in this area is 0.70 - 0.73 spaces per unit. 
+Note that 90 Hunter is serviced by two key bus routes and a bike network. Excessive parking for cars is counter to forward-thinking urban design principles designed to reduce car dependency and promote sustainable transportation choices. The surplus is not only excessive from a bylaw standpoint, but also excessive from a needs standpoint: the orginal application included a parking study that found the peak parking rate for comparative developments in this area is 0.70 - 0.73 spaces per unit. 
 
 See: 
 - [Traffic Impact Study and Parking Justification Report (Revised)](https://drive.google.com/file/d/1EtwZ3QZP07zpqoOpfEiL9j3_HDgcg7TK/view)
