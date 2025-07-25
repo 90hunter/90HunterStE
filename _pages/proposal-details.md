@@ -111,6 +111,8 @@ See:
 
 ## Urban Design 
 
+Despite following a podium and tower typology and respecting the human scale of the street, the proposal has inadequate transitions to neighbouring properties.
+
 Hunter Street East is subject to the [Central Area Urban Design Guidelines](https://www.peterborough.ca/media/mivbkdnp/ipspl23-007-appendix-a-central-area-urban-design-guidelines-accessible-2023-04-19-copy.pdf) (PDF), which states that high-rise residential buildings (6+ storeys) should:
 
 > "For portions of high-rise buildings above 6
