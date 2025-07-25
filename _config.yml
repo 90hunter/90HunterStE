@@ -34,6 +34,9 @@ navigation:
 - text: About
   url: ./
   internal: true
+- text: Proposal details
+  url: proposal-details/
+  internal: true
 - text: Renderings
   url: renderings/
   internal: true
@@ -44,9 +47,6 @@ navigation:
       url: /renderings/shadow-studies/
     - text: Architectural drawings
       url: /renderings/architectural-drawings/
-- text: Proposal details
-  url: proposal-details/
-  internal: true
 - text: City plans and policies
   url: city-plans-and-policies/
   internal: true
