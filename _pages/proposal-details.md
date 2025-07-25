@@ -133,7 +133,7 @@ Further, City Staff provided the following comments on the 17-storey proposal:
 >>  - ii) Staff acknowledges that the angular plane is one measure of compatibility and does not need to be strictly implemented. Where there are encroachments, staff are looking for alternative mitigation measures to be implemented during site plan approval. The Urban Design Brief remains silent on a mitigation plan to improve compatibility with surrounding uses. 
 > - c) Additional step backs should be considered as part of the residential portion of the building. The step back at the street wall is currently only proposed for the commercial portion."
 
-The updated proposal expands the 0.8m set back to 423 Mark St to 2.8m, but does not address the rest of Staff comments.   
+The updated proposal expands the 0.8m set back to 423 Mark St to 2.8m and notes alternative landscape options will be explored at the Site Plan stage, but does not address the rest of Staff comments.   
 
 
 ## Heritage Impact 
