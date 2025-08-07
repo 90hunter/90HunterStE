@@ -5,8 +5,9 @@ title:  "In the media"
 
 Articles about this development proposal in local media: 
 
+- [Community opposition to proposed 17-story high-rise in Peterborough’s East City is heating up](https://kawarthanow.com/2025/08/07/community-opposition-to-proposed-17-story-high-rise-in-peterboroughs-east-city-is-heating-up/) (KawarthaNOW, August 7, 2025)
 - [City committee to discuss severing East City property for 17-storey building](https://www.thepeterboroughexaminer.com/news/city-committee-to-discuss-severing-east-city-property-for-17-storey-building/article_67f54229-0f50-562b-b302-e8e9dcd8a0c6.html) (Peterborough Examiner, July 10, 2025)
-- [‘Intensification has been directed by the city’ developer says as backlash to proposed 17-storey East City development grows](https://kawarthanow.com/2025/05/29/intensification-has-been-directed-by-the-city-developer-says-as-backlash-to-proposed-17-storey-east-city-development-grows/) (KawarthaNow, May 25, 2025)
+- [‘Intensification has been directed by the city’ developer says as backlash to proposed 17-storey East City development grows](https://kawarthanow.com/2025/05/29/intensification-has-been-directed-by-the-city-developer-says-as-backlash-to-proposed-17-storey-east-city-development-grows/) (KawarthaNOW, May 25, 2025)
 - [Hunter Street East development could be 17 storeys](https://www.thepeterboroughexaminer.com/news/responding-to-the-needs-of-the-market-proposed-17-storey-development-on-hunter-street-east/article_36d12f00-f153-561c-b77b-6132cc40c3dc.html) (Peterborough Examiner, May 22, 2025)
 - [Proposed Mark Street United Church development in Peterborough’s East City grows from 10 to 17 storeys](https://kawarthanow.com/2025/05/20/proposed-mark-street-united-church-development-in-peterboroughs-east-city-grows-from-10-to-17-storeys/) (KawarthaNOW, May 20, 2025)
 - [Proposed 10-storey building in Peterborough’s East City moves forward in application process](https://kawarthanow.com/2025/01/24/proposed-10-storey-building-in-peterboroughs-east-city-moves-forward-in-application-process/) (KawarthaNOW, January 24, 2025)
