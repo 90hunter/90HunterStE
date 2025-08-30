@@ -4,7 +4,7 @@ There is a proposal for a 17-storey mixed-use building to be developed at 90 Hun
 
 City Council first voted to approve this zoning amendment proposal at the General Committee meeting on August 25, 2025. The vote was 7-4, with Riel, Baldwin, Lachica and Bierk voting against. This vote will be ratified at the Sept 3 City Council meeting. 
 
-Now is the time to share your thoughts about this proposal to Planning Staff and to Council.
+Now is the time to share your thoughts about this proposal to the Mayor and council.
 
 Links on City site: 
  - [Staff report: Zoning By-law Amendment for 90 Hunter Street East, Report
