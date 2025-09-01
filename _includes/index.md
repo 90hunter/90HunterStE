@@ -12,3 +12,7 @@ IPGPL25-041](https://pub-peterborough.escribemeetings.com/filestream.ashx?Docume
  - [Application for a Zoning By-law Amendment](https://www.peterborough.ca/business-building-development/planning-building-and-development/planning-and-development-services/current-development-applications/#90HunterStreetEast) 
 
 <img src="/assets/img/rendering.png" style="max-width:100%;height:auto;" alt="rendering of the 17-storey building">
+
+### Join outside City Hall on Sept 3 before the council meeting
+
+<img src="/assets/img/sept3.png" style="max-width:50%;height:auto;" alt="flyer for protest september 3rd">
