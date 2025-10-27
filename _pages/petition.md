@@ -3,7 +3,7 @@ layout: page
 title:  "Petition"
 ---
 <a name="top"></a>
-Before the rezoning amendment, Peterborough City Council was presented with the following petition of over 700 signatures from residents across all wards of the city. 
+Before the zoning by-law amendment was approved in August, Peterborough City Council was presented with the following petition of over 700 signatures from residents across all wards of the city. 
 
 > We, the undersigned residents of East City and the City of Peterborough, express our serious concerns regarding the proposed 17-storey mixed-use development at the Mark Street United Church site. While we support appropriate development and increased housing options in our community, we believe this proposal contradicts numerous provisions in Peterborough's Official Plan and Central Area Urban Design Guidelines. Allowing the proposal as-is creates an unacceptable precedent for anticipated future development on Hunter St East. We petition the City Council to require modifications to the proposal before approving the application for rezoning.
 > 
