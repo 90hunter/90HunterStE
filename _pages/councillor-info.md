@@ -3,9 +3,7 @@ layout: page
 title:  "Councillor info"
 ---
 
-All councillors will be voting on the zoning amendment for the 17-storey proposal at the General Committee meeting. It's important to contact _all councillors_, not just those in Ashburnham Ward, as well as the Mayor to express your thoughts. 
-
-You can use the email template found [in this Google Doc](https://docs.google.com/document/d/1xsXjBbkU7JL8gcXfIBaDVGNvIgtQcpuMWMDv1aZTNPU/edit?usp=sharing), or write your own! 
+All councillors voted on the zoning amendment for the 17-storey proposal. The vote was 7-4, with Riel, Baldwin, Lachica and Bierk voting against.
 
 ### Mayor Jeff Leal
 Phone: 705-742-7777 ext. 1870#<br>
