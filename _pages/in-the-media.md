@@ -6,6 +6,7 @@ title:  "In the media"
 Articles about this development proposal in local media: 
 
 - [Peterborough city council votes 7-4 to approve a 17-storey high-rise in East City](https://kawarthanow.com/2025/09/04/peterborough-city-council-votes-7-4-to-approve-a-17-storey-high-rise-in-east-city/) (KawarthaNOW, September 4, 2025)
+- [Rezoning to allow 17-storey building in East City gets final approval from Peterborough council](https://www.thepeterboroughexaminer.com/news/council/rezoning-to-allow-17-storey-building-in-east-city-gets-final-approval-from-peterborough-council/article_2febc9d4-4784-579e-b819-2237cb30680e.html) (Peterborough Examiner, September 4, 2025)
 - [Peterborough city council vote to allow demolition of Mark Street United Church addition](https://kawarthanow.com/2025/08/28/peterborough-city-council-to-consider-notice-of-demolition-of-mark-street-united-church-addition/) (KawarthaNOW, August 28, 2025)
 - [Council leans on ‘crisis in housing’ in support of proposal for 17-storey building in East City](https://www.thepeterboroughexaminer.com/news/council-leans-on-crisis-in-housing-in-support-of-proposal-for-17-storey-building-in/article_bd1137e5-9303-5e7b-8cb0-8a9a53d8e0f7.html) (Peterborough Examiner, August 26, 2025)
 - [Peterborough city council votes to approve zoning by-law amendment for 17-storey high-rise in East City](https://kawarthanow.com/2025/08/25/peterborough-city-council-votes-to-approve-zoning-by-law-amendment-for-17-storey-high-rise-in-east-city/) (KawarthaNOW, August 25, 2025)
@@ -23,7 +24,10 @@ Articles about this development proposal in local media:
 
 Letters to the editor in local media: 
 
-- [East City plan is more than an ‘adjustment’](https://www.thepeterboroughexaminer.com/opinion/letters-to-the-editor/examiner-letters-to-the-editor-july-10/article_11da8a41-96f4-5e6b-8e55-c8f9c8d5f1a3.html), Peter Dawson, July 24, 2024
+- [Disgraceful decision](https://www.thepeterboroughexaminer.com/opinion/letters-to-the-editor/examiner-letters-to-the-editor-sept-12/article_da3250b9-4fde-528a-b564-ed4166d833ce.html), Charlie Werger, September 12, 2025
+- [Not in my backyard](https://www.thepeterboroughexaminer.com/opinion/letters-to-the-editor/examiner-letters-to-the-editor-sept-12/article_da3250b9-4fde-528a-b564-ed4166d833ce.html), Jan Belfry, September 12, 2025
+- [Residents speak out against Hunter Street East apartment](https://www.thepeterboroughexaminer.com/opinion/letters-to-the-editor/examiner-letters-to-the-editor-aug-28/article_2a83297d-6859-55a4-96dd-77cc9a856546.html), August 28, 2025 
 - [East City development needs more consideration](https://www.thepeterboroughexaminer.com/opinion/letters-to-the-editor/examiner-letters-to-the-editor-june-3/article_e5452cca-a3f4-531d-a1b3-021d02887af8.html), John MacMillan-Jones, June 3, 2025
 - [Developers are not driven by pure altruism](https://www.thepeterboroughexaminer.com/opinion/letters-to-the-editor/examiner-letters-to-the-editor-june-3/article_e5452cca-a3f4-531d-a1b3-021d02887af8.html), Peter Dawson, June 3, 2025
 - [17 storeys is a bridge too far](https://www.thepeterboroughexaminer.com/opinion/letters-to-the-editor/examiner-letters-to-the-editor-may-28/article_e5cfa463-0217-5d5d-bfaf-38acc3f8c318.html), Martha Tancock, May 28, 2025
+- [East City plan is more than an ‘adjustment’](https://www.thepeterboroughexaminer.com/opinion/letters-to-the-editor/examiner-letters-to-the-editor-july-10/article_11da8a41-96f4-5e6b-8e55-c8f9c8d5f1a3.html), Peter Dawson, July 24, 2024
